@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="0.516"><testcase classname="TestCases.test_invest" file="TestCases\test_invest.py" line="33" name="test_demo" time="0.03298020362854004"><system-out>我是模块下函数版本的测试用例！！
+</system-out></testcase></testsuite>
